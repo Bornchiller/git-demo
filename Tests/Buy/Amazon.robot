@@ -11,7 +11,7 @@ Test Teardown  End Web Test
 *** Test Cases ***
 User must sign in to check out
     [Documentation]  This is some basic info about the test
-    [Tags]  Smoke
+    [Tags]  Smoke  Buy
     Amazon.Search For Products
     Amazon.Select Product from Search Results
     Amazon.Add Product to Cart

@@ -12,7 +12,7 @@ Test Teardown  End Web Test
 *** Test Cases ***
 User is new customer
     [Documentation]  Go to create account form
-    [Tags]  Smoke
+    [Tags]  Smoke  Account
     LandingPage.Load
     LandingPage.Verify Page Loaded
     SignIn.Select Sign In
