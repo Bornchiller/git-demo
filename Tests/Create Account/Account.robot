@@ -12,4 +12,3 @@ Test Teardown  End Web Test
 User must create account to buy stuff
     [Documentation]  Create account test
     [Tags]  Smoke Account
-    
